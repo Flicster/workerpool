@@ -1,0 +1,19 @@
+# Mac OS X files
+.DS_Store
+
+# Integrational python test
+*.pyc
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+*.log
+/http
+
+/profiler
+/vendor
+/ssl
+!/ssl/.gitkeep
+/build/
+/.idea/
+/venv
